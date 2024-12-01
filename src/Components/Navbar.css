@@ -1,0 +1,11 @@
+.company-logo {
+  display: flex;
+  align-items: center;
+  font-family: "Protest Revolution", sans-serif;
+  font-size: 26px;
+  letter-spacing: 2px;
+
+  img {
+    width: 50px;
+  }
+}
