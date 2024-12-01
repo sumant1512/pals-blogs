@@ -1,0 +1,10 @@
+.banner {
+  background-image: url("https://www.paintsplatter.oxaart.com/wp-content/uploads/wall-paint-cans.jpg");
+  background-color: rgb(63, 59, 117);
+  color: white;
+
+  .heading {
+    font-size: 52px;
+    font-family: "Marcellus", sans-serif;
+  }
+}

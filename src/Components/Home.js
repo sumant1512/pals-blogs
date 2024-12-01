@@ -1,8 +1,13 @@
 import { Component } from "react";
+import Banner from "./Banner";
 
 class Home extends Component {
   render() {
-    return <p>This is Home Component</p>;
+    return (
+      <div>
+        <Banner />
+      </div>
+    );
   }
 }
 
