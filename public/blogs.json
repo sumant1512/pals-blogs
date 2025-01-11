@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Blog1",
+      "description": "Description 1",
+      "updatedMin": "1",
+      "img": "https://www.paintsplatter.oxaart.com/wp-content/uploads/wall-paint-cans.jpg"
+    },
+    {
+      "title": "Blog2",
+      "description": "Description 2",
+      "updatedMin": "2",
+      "img": "https://www.paintsplatter.oxaart.com/wp-content/uploads/wall-paint-cans.jpg"
+    },
+    {
+      "title": "Blog3",
+      "description": "Description 3",
+      "updatedMin": "3",
+      "img": "https://www.paintsplatter.oxaart.com/wp-content/uploads/wall-paint-cans.jpg"
+    }
+  ]
+}
