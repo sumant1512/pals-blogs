@@ -1,0 +1,20 @@
+{
+  "name": "pals-blog-backend",
+  "version": "1.0.0",
+  "description": "This is pals blogs backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Wall",
+    "Paint",
+    "blogs"
+  ],
+  "author": "Sumant Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+  }
+}
